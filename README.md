@@ -38,7 +38,7 @@ Se trabajó con:
 
 - `CARRILLO_JULIA_PH_TP1.ipynb`: notebook correspondiente al Trabajo Práctico N.º 1.
 
-###**🤖 TP3 - Chatbots con TF-IDF y Embeddings**
+###🤖 TP3 - Chatbots con TF-IDF y Embeddings
 
 Descripción
 
