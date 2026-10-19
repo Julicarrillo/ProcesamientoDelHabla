@@ -20,6 +20,23 @@ Se trabajó con:
 - One-Hot Encoding.
 - TF-IDF.
 
+### TP2 - Procesamiento de archivos PDF
+
+En este trabajo práctico se aplicaron técnicas de extracción, limpieza y análisis de información contenida en un documento PDF, utilizando Python y herramientas de Procesamiento del Lenguaje Natural.
+
+Se trabajó con un informe del INDEC sobre el acceso y uso de tecnologías de la información y la comunicación en Argentina.
+
+Se realizaron las siguientes actividades:
+
+- Descarga y lectura de un archivo PDF.
+- Extracción de texto utilizando la biblioteca pdfplumber.
+- Identificación de caracteres especiales y separadores de texto.
+- Extracción de datos tabulares desde una página del documento.
+- Creación y limpieza de un DataFrame utilizando Pandas.
+- Tokenización y normalización del texto.
+- Eliminación de stopwords en español utilizando NLTK.
+- Análisis de frecuencias de palabras.
+
 ### TP3 - Chatbots con TF-IDF y Embeddings
 
 En este trabajo práctico se desarrollaron y compararon dos chatbots de atención al cliente para **Giulya**, un comercio de accesorios de moda y artículos de viaje, utilizando diferentes técnicas de Procesamiento del Lenguaje Natural.
