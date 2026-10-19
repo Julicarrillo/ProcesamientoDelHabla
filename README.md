@@ -78,6 +78,7 @@ Se realizaron 12 consultas a ambos chatbots, obteniendo los siguientes resultado
 ## 📁 Archivos
 
 - `CARRILLO_JULIA_PH_TP1.ipynb`: notebook correspondiente al Trabajo Práctico N.º 1.
+- `CARRILLO_JULIA_PH_TP2.ipynb`: notebook correspondiente al Trabajo Práctico N.º 2.
 - `CARRILLO_JULIA_PH_TP3.ipynb`: notebook correspondiente al Trabajo Práctico N.º 3.
 
 ## 👩‍💻 Autora
